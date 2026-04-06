@@ -158,8 +158,8 @@ jupyter notebook
     </td>
 
     <td align="center">
-      <a href="https://github.com/USERNAME1">
-        <img src="https://github.com/USERNAME1.png" width="100px;" alt="Hannan"/>
+      <a href="https://github.com/Hannan01-nil">
+        <img src="https://github.com/Hannan01-nil.png" width="100px;" alt="Hannan"/>
         <br />
         <sub><b>Mohamed Hannan N</b></sub>
       </a>
@@ -168,8 +168,8 @@ jupyter notebook
     </td>
 
     <td align="center">
-      <a href="https://github.com/USERNAME2">
-        <img src="https://github.com/USERNAME2.png" width="100px;" alt="Rounak"/>
+      <a href="https://github.com/gh-raunil">
+        <img src="https://github.com/gh-raunil.png" width="100px;" alt="Rounak"/>
         <br />
         <sub><b>Rounak Kumar</b></sub>
       </a>
