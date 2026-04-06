@@ -193,7 +193,7 @@ Data → Preprocessing → Feature Engineering → PCA → Model Training → Ev
         💻 <b>ML Development</b>
       </td>
 
-      <td align="center">
+   <td align="center">
         <a href="https://github.com/Hannan01-nil">
           <img src="https://github.com/Hannan01-nil.png" width="100px;" style="border-radius:50%" />
           <br />
@@ -203,7 +203,7 @@ Data → Preprocessing → Feature Engineering → PCA → Model Training → Ev
         📊 <b>Data Processing</b>
       </td>
 
-      <td align="center">
+  <td align="center">
         <a href="https://github.com/gh-raunil">
           <img src="https://github.com/gh-raunil.png" width="100px;" style="border-radius:50%" />
           <br />
