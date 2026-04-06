@@ -119,9 +119,15 @@ jupyter notebook
 4. PCA (Dimensionality Reduction)  
 5. Model Training  
 6. Evaluation  
-7. Prediction Output  
-
+7. Prediction Output
+   
 ---
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
 
 ## 🎯 Impact
 - Enables early stress detection  
