@@ -143,6 +143,44 @@ jupyter notebook
 
 ---
 
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saad-affan12">
+        <img src="https://github.com/saad-affan12.png" width="100px;" alt="Saad"/>
+        <br />
+        <sub><b>Mohammed Saad Affan A</b></sub>
+      </a>
+      <br />
+      💻 ML Development
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/USERNAME1">
+        <img src="https://github.com/USERNAME1.png" width="100px;" alt="Hannan"/>
+        <br />
+        <sub><b>Mohamed Hannan N</b></sub>
+      </a>
+      <br />
+      📊 Data Processing
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/USERNAME2">
+        <img src="https://github.com/USERNAME2.png" width="100px;" alt="Rounak"/>
+        <br />
+        <sub><b>Rounak Kumar</b></sub>
+      </a>
+      <br />
+      🤖 Model Training
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 👥 Team
 - Mohammed Saad Affan A  
 - Mohamed Hannan N  
